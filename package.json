@@ -1,0 +1,25 @@
+{
+    "name": "voucher-code-generator",
+    "version": "1.0.0",
+    "description": "A simple typescript library for generating voucher codes",
+    "main": "VoucherCodeGenerator.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Tjerk132/voucher-code-generator.git"
+    },
+    "keywords": [
+        "voucher code",
+        "generator",
+        "typescript",
+        "library"
+    ],
+    "author": "Tjerk Sevenich",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Tjerk132/VoucherCodeGenerator/issues"
+    },
+    "homepage": "https://github.com/Tjerk132/VoucherCodeGenerator#readme"
+}
