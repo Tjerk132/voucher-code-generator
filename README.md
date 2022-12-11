@@ -12,7 +12,7 @@ All non-alphanumeric characters in the given pattern parameter will not change w
 
 ### Importing the generate method
 ```typescript
-import { generate } from 'voucher-code-generator'
+import { generate } from 'voucher-codes-generator'
 ```
 
 Now all you need to do is call the method with your desired pattern, for example:
