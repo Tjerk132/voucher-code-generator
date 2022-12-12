@@ -1,6 +1,6 @@
 {
     "name": "voucher-codes-generator",
-    "version": "1.2.3",
+    "version": "1.2.4",
     "description": "A simple typescript library for generating voucher codes",
     "main": "lib/VoucherCodeGenerator.js",
     "types": "lib/VoucherCodeGenerator.d.ts",
