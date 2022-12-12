@@ -27,6 +27,9 @@
         "url": "https://github.com/Tjerk132/VoucherCodeGenerator/issues"
     },
     "homepage": "https://github.com/Tjerk132/VoucherCodeGenerator#readme",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+    },
     "devDependencies": {
         "typescript": "^4.9.4"
     }
